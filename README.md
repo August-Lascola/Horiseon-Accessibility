@@ -16,7 +16,9 @@ Nothing--just click on the link in the "Deployment" section below to view the ap
 
 You can find the finished application at: https://august-lascola.github.io/Horiseon-accessibility/ 
 
-Some features you should test out: the links in the "nav bar" (Search Engine Optimization, Online Reputation Management, Social Media Marketing), resizing the window (this will be a skill I improve on in the following weeks--note how the nav bar collapses at a certain width)
+For a reference on what the website should look like, please refer to the "Issues" tab for a screenshot I have provided. 
+
+Some features you should test out: the links in the "nav bar" (Search Engine Optimization, Online Reputation Management, Social Media Marketing), resizing the window (this will be a skill I improve on in the following weeks--note how the nav bar collapses at a certain width).
 
 
 ## Built With
